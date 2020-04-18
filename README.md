@@ -1,4 +1,8 @@
 # 【Python】Python PIL实现多图拼接为长图
+![](https://img.shields.io/github/issues/dexfire/python_pil_image_concat)
+![](https://img.shields.io/github/forks/dexfire/python_pil_image_concat)[![github stars](https://img.shields.io/github/stars/dexfire/python_pil_image_concat.svg?style=social)](https://github.com/dexfire/python_pil_image_concat)
+![](https://img.shields.io/github/stars/dexfire/python_pil_image_concat)
+![](https://img.shields.io/github/license/dexfire/python_pil_image_concat)
 
 ## 输入图像
 ![输入多图1](1.jpg)
