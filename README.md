@@ -5,12 +5,12 @@
 ![](https://img.shields.io/github/license/dexfire/python_pil_image_concat)
 
 ## 输入图像
-![输入多图1](1.jpg)
-![输入多图2](2.jpg)
+![输入多图1](https://raw.githubusercontent.com/dexfire/python_pil_image_concat/master/1.jpg)
+![输入多图2](https://raw.githubusercontent.com/dexfire/python_pil_image_concat/master/2.jpg)
 ...
 
 ## 输出图像
-![输出图像](output3.jpg)
+![输出图像](https://raw.githubusercontent.com/dexfire/python_pil_image_concat/master/output3.jpg)
 
 ## 实现代码
 ```python
