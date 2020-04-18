@@ -1,10 +1,12 @@
 # 【Python】Python PIL实现多图拼接为长图
 
 ## 输入图像
-![输入多图](/assets/imgaes/2020年4月19日，python图像拼接.jpg)
+![输入多图1](1.jpg)
+![输入多图2](2.jpg)
+...
 
 ## 输出图像
-![输出图像](/assets/images/2345截图20200419011309.jpg)
+![输出图像](output3.jpg)
 
 ## 实现代码
 ```python
