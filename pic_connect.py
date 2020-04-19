@@ -1,7 +1,6 @@
 # coding=utf8
 import os
-import PIL
-from PIL import ImageFile, Image
+from PIL import Image
 
 
 def connect(pics: list):
